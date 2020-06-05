@@ -2,6 +2,7 @@
 
 A resume application made with Flutter and local JSON file.
 
+![Resume screenshot](https://github.com/rxsille/resume/blob/master/resume.png?raw=true)
 ![Resume alpha](https://media.giphy.com/media/WqM3u4QceKzzX5fUqI/giphy.gif)
 
 This application shows:
