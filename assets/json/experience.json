@@ -1,0 +1,42 @@
+[
+    {
+        "company": "Lemontech IT Solutions",
+        "position": "Senior Quality Assurance Specialist",
+        "start": "November 2019",
+        "end": "March 2020",
+        "tasks": [
+            "Create detailed test plan and test cases",
+            "Create test suites for web application",
+            "Perform API testing using Postman",
+            "Cross-check data in database versus API",
+            "Perform smoke testing on features after merge and deployment",
+            "Coordinate with Development team to identify requirements",
+            "Document and provide user acceptance criteria on PBI"
+        ]
+    },
+    {
+        "company": "Media Deals via Upwork",
+        "position": "System Quality Assurance Analyst",
+        "start": "October 2019",
+        "end": "December 2019",
+        "tasks": [
+            "Perform thorough testing on sites",
+            "Check spelling, grammar and content of articles to be release",
+            "Perform cross-browser testing on sites via crossbrowsertesting.com"
+        ]
+    },
+    {
+        "company": "Note-e-Fied Philippines, Inc.",
+        "position": "Software Quality Assurance Specialist",
+        "start": "May 2015",
+        "end": "December 2017",
+        "tasks": [
+            "Create detailed test plan and test cases",
+            "Estimate, prioritize and plan testing activities",
+            "Perform thorough regression testing when bugs are resolved",
+            "Document check-ins and create release notes every deployment",
+            "Perform smoke testing every deployment",
+            "Coordinate with other teams to identify feature requirements"
+        ]
+    }
+]

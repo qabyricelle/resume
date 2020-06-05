@@ -1,0 +1,42 @@
+[
+    {
+        "skills": "Manual Testing",
+        "rate": 4
+    },
+    {
+        "skills": "API Testing",
+        "rate": 3
+    },
+    {
+        "skills": "Database Testing",
+        "rate": 4
+    },
+    {
+        "skills": "Dart & Flutter",
+        "rate": 3
+    },
+    {
+        "skills": "SQL",
+        "rate": 3
+    },
+    {
+        "skills": "SQLite / SQFLite",
+        "rate": 2
+    },
+    {
+        "skills": "Cloud Firestore",
+        "rate": 2
+    },
+    {
+        "skills": "Regression Testing",
+        "rate": 4
+    },
+    {
+        "skills": "Functional Testing",
+        "rate": 4
+    },
+    {
+        "skills": "Smoke Testing",
+        "rate": 4
+    }
+]
